@@ -2,7 +2,7 @@
 
 A single-page booking and scheduling tool for the clinic, built as a Claude published page.
 
-**Live page (requires Claude sign-in):** https://claude.ai/artifact/AxKC2ijgDLsFNcT65JpNoj
+ https://claude.ai/artifact/AxKC2ijgDLsFNcT65JpNoj
 
 ## What it does
 - Team schedule for Habla, Varda and Sahla: booked and available slots, day by day
