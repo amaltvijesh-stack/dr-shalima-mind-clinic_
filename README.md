@@ -1,1 +1,0 @@
-# dr-shalima-mind-clinic_
