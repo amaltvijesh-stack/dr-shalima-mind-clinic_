@@ -2,8 +2,6 @@
 
 A single-page booking and scheduling tool for the clinic, built as a Claude published page.
 
- https://claude.ai/artifact/AxKC2ijgDLsFNcT65JpNoj
-
 ## What it does
 - Team schedule for Habla, Varda and Sahla: booked and available slots, day by day
 - 45-minute sessions, start times every 30 minutes from 10:00 AM to 7:30 PM (IST)
